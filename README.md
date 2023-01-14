@@ -31,6 +31,6 @@ Kiwee's options are..
 First Install Python 3.9 (ADD PYTHON 3.9 TO PATH) : https://www.python.org/downloads/release/python-395/
 
 Then, run requirements.bat
- one you have ran requirements.bat oprn kiwee.exe 
+ one you have ran requirements.bat open kiwee.exe 
 # Preview
 ![image](https://user-images.githubusercontent.com/78107456/212494150-983d4417-1d8f-4c22-9070-2bef4fc468b9.png)
