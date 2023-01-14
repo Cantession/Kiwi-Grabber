@@ -33,4 +33,4 @@ First Install Python 3.9 (ADD PYTHON 3.9 TO PATH) : https://www.python.org/downl
 Then, run requirements.bat
  one you have ran requirements.bat oprn kiwee.exe 
 # Preview
-![image][(https://cdn.discordapp.com/attachments/1059965788548763709/1063910721009750126/image.png)]
+![image](https://user-images.githubusercontent.com/78107456/212494150-983d4417-1d8f-4c22-9070-2bef4fc468b9.png)
