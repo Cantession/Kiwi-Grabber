@@ -3,6 +3,8 @@ A Open source Discord Token Grabber with several very useful features coded in p
 
 This only works on any python 3.9 versions.
 
+Cn be used for marketing 
+
 recommended : https://www.python.org/downloads/release/python-395/
 
 Get the exe version here : https://github.com/vesperlol/Kiwee-Grabber/releases/tag/Kiwee
